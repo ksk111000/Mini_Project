@@ -105,7 +105,9 @@ Own point predictions: [450000.78]
 
 **Sharath Kanchipati**
 📧 Email: [ksk111000@gmail.com](mailto:ksk111000@gmail.com)
+
 📱 Phone: 8099413353
+
 💼 Role: Data Analyst & ML Engineer
 
 ---

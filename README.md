@@ -124,30 +124,3 @@ Own point predictions: [450000.78]
 ## ⭐ Conclusion
 
 This project demonstrates how **Machine Learning + OOP** can be combined to build a structured and scalable predictive model.
-
----
-
-````
-
----
-
-## 🔥 Pro Tip
-When uploading to GitHub:
-- Name file exactly:
-```bash
-README.md
-````
-
-* Place it in **root folder**
-
----
-
-## 🚀 Want next level?
-
-I can help you:
-
-* Add **Flask + HTML UI (full deployment)**
-* Make this **resume-level GitHub project (with badges + screenshots)**
-* Write **LinkedIn post for this project**
-
-Just tell 👍
